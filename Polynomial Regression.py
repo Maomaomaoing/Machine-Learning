@@ -154,7 +154,7 @@ plt.show()
 
 #%%
 
-""" Hw 3-2, select important feature """
+""" select important feature """
 
 # two feature
 M_order = 3
